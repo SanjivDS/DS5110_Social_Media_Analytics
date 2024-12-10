@@ -29,7 +29,7 @@ This project analyzes Formula 1-related comments from YouTube to assess audience
 
 4. **Visualization**  
    - Created detailed plots to depict racer and team sentiment trends, emotional engagement, and comparative analysis using **Matplotlib** and **Seaborn**.
-   - Developed interactive dashboards using **PySpark** to visualize insights and support decision-making for teams and sponsors.
+   - Developed interactive dashboards using **Flask** to visualize insights and support decision-making for teams and sponsors.
 
 ---
 
@@ -38,7 +38,7 @@ This project analyzes Formula 1-related comments from YouTube to assess audience
 - **Python**:  
   - Libraries: Pandas, NLTK, NRCLex, Matplotlib, Seaborn, Hugging Face (transformers)
 - **Visualization**:  
-  - **PySpark** for visualization and interactive dashboard.
+  - **Flask** for visualization and interactive dashboard.
 - **Jupyter Notebook**:  
   - Used for iterative development and testing of the sentiment analysis pipeline.
 
